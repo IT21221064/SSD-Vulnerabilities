@@ -22,7 +22,7 @@
     "express-jwt": "^6.1.0",
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.10",
+    "mongoose": "^6.13.6",
     "nodemon": "^2.0.13",
     "pdfkit": "^0.12.3",
     "validator": "^13.6.0"
